@@ -8,7 +8,7 @@ permalink: /standards-guidelines/wcag/non-web-ict/
 ref: /standards-guidelines/wcag/non-web-ict/
 
 github:
-  label: wai-wcag-intro
+  label: wai-wc ktag-intro
 
 image: /content-images/wcag/general-social.png
 footer: >
